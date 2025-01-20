@@ -1,0 +1,64 @@
+{
+    "January": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 6, "name": "Chicken Breast", "category": "Meat" },
+      { "id": 23, "name": "Detergent", "category": "Cleaning" },
+      { "id": 15, "name": "Oranges", "category": "Produce" }
+    ],
+    "February": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 12, "name": "Cabbage", "category": "Produce" },
+      { "id": 25, "name": "Fish Fillets", "category": "Seafood" }
+    ],
+    "March": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 5, "name": "Carrots", "category": "Produce" },
+      { "id": 18, "name": "Oats", "category": "Breakfast" }
+    ],
+    "April": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 10, "name": "Spinach", "category": "Produce" },
+      { "id": 6, "name": "Chicken Breast", "category": "Meat" }
+    ],
+    "May": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 5, "name": "Bananas", "category": "Produce" },
+      { "id": 11, "name": "Yogurt", "category": "Dairy" }
+    ],
+    "June": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 13, "name": "Potatoes", "category": "Produce" },
+      { "id": 26, "name": "Coffee", "category": "Beverages" }
+    ],
+    "July": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 16, "name": "Shrimp", "category": "Seafood" },
+      { "id": 30, "name": "Cherries", "category": "Produce" }
+    ],
+    "August": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 17, "name": "Cereal", "category": "Breakfast" },
+      { "id": 40, "name": "Ketchup", "category": "Condiments" }
+    ],
+    "September": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 18, "name": "Oats", "category": "Breakfast" },
+      { "id": 19, "name": "Butter", "category": "Dairy" }
+    ],
+    "October": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 23, "name": "Detergent", "category": "Cleaning" },
+      { "id": 46, "name": "Canned Soup", "category": "Canned Goods" }
+    ],
+    "November": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 2, "name": "Eggs", "category": "Dairy" },
+      { "id": 35, "name": "Honey", "category": "Pantry" }
+    ],
+    "December": [
+      { "id": 1, "name": "Milk", "category": "Dairy" },
+      { "id": 20, "name": "Toothpaste", "category": "Personal Care" },
+      { "id": 44, "name": "Ice Cream", "category": "Frozen" }
+    ]
+}
+  

@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Milk", "category": "Dairy", "price": 2.5, "quantity": 1 },
+    { "id": 2, "name": "Eggs", "category": "Dairy", "price": 3.0, "quantity": 3 },
+    { "id": 16, "name": "Shrimp", "category": "Seafood", "price": 8.0, "quantity": 5 },
+    { "id": 38, "name": "Chips", "category": "Snacks", "price": 2.0, "quantity": 4 },
+    { "id": 39, "name": "Soda", "category": "Beverages", "price": 1.5, "quantity": 1 },
+    { "id": 41, "name": "Mustard", "category": "Condiments", "price": 1.5, "quantity": 5 },
+    { "id": 42, "name": "Mayonnaise", "category": "Condiments", "price": 3.0, "quantity": 2 }
+]
